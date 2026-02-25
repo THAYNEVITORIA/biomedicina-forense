@@ -23,5 +23,4 @@ criaCartao(
     'Quais são os dois tipos mais conhecidos?',
     '- Genômica: Estudo do conjunto completo de DNA de um organismo. Na área forense, isso permite a identificação individual (DNA profiling)'
     '- Biologia Molecular: O foco é nas interações entre os sistemas celulares, especialmente o DNA, RNA e a síntese de proteínas. '
-
 )
