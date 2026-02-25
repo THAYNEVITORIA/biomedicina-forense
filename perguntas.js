@@ -1,25 +1,27 @@
 
 
 criaCartao(
-    'TERMOQUÍMICA',
-    'O que é entalpia?',
-    '- Grandeza termodinâmica que mede o conteúdo de calor de um sistema, especialmente em reações químicas a pressão constante.'
+    'BIOMEDICINA FORENSE',
+    'O que é a biomedicina forense?',
+    '- A biomedicina forense aplica conhecimentos biológicos, químicos e moleculares para analisar vestígios em investigações criminais e contextos legais.'
 )
 
 criaCartao(
-    'REAÇÕES QUÍMICAS',
-    'O que é uma reação exotérmica?',
-    '- Uma reação exotérmica é aquela que liberta calor para o ambiente, resultando em um aumento da temperatura do sistema.'
+    'AREAS DE ATUAÇÃO',
+    'Em quais areas ela atua?',
+    '- Análise de DNA e Fluidos; Toxicologia Forense; Entomologia Forense; Patologia Forense; Antropologia Forense '
 )
 
 criaCartao(
-    'CONCEITOS',
-    'O que diz a Lei de Hess?',
-    '- Estabelece que a variação de entalpia (calor da reação) de uma reação química depende apenas do estado inicial e final dos reagentes e produtos, e não do caminho ou etapas intermediárias que a reação possa seguir.'
+    'Conceitos da Biomedicina Forense',
+    'O que é Bioética?',
+    '- É o estudo dos limites éticos das intervenções biológicas, como manipulação genética, uso de células-tronco e a privacidade dos dados genéticos de criminosos e vítimas. '
 )
 
 criaCartao(
-    'TIPOS DE ENTALPIA',
-    'Quais são os dois tipos de entalpia mais conhecidos?',
-    '- Entalpia de Formação e Entalpia de Ligação.'
+    'Tipos de Análise Molecular e Genética',
+    'Quais são os dois tipos mais conhecidos?',
+    '- Genômica: Estudo do conjunto completo de DNA de um organismo. Na área forense, isso permite a identificação individual (DNA profiling)'
+    '- Biologia Molecular: O foco é nas interações entre os sistemas celulares, especialmente o DNA, RNA e a síntese de proteínas. '
+
 )
